@@ -1,5 +1,6 @@
 node_modules/
 wallet/
 dist/
+fabric-samples/
 .env
 *.log
